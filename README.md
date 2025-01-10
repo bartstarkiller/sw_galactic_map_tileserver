@@ -1,0 +1,2 @@
+# sw_galactic_map_tileserver
+galactic tileserver
